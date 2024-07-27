@@ -1,0 +1,100 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/image_14.png
+  - assets/vectors/container_1_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_49_x2.svg
+  - assets/vectors/ellipse_85_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_44_x2.svg
+  - assets/vectors/ellipse_86_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/ellipse_88_x2.svg
+  - assets/vectors/rectangle_4_x2.svg
+  - assets/images/image_14.png
+  - assets/images/image_23.png
+  - assets/vectors/container_7_x2.svg
+  - assets/images/image_14.png
+  - assets/images/image_215.png
+  - assets/vectors/container_6_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_410_x2.svg
+  - assets/vectors/ellipse_82_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_42_x2.svg
+  - assets/vectors/ellipse_8_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_48_x2.svg
+  - assets/vectors/ellipse_84_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_45_x2.svg
+  - assets/vectors/ellipse_87_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_47_x2.svg
+  - assets/vectors/ellipse_81_x2.svg
+  - assets/images/image_212.png
+  - assets/images/image_24.png
+  - assets/images/image_14.png
+  - assets/vectors/container_4_x2.svg
+  - assets/images/image_26.png
+  - assets/images/image_14.png
+  - assets/images/image_213.png
+  - assets/vectors/container_5_x2.svg
+  - assets/images/image_14.png
+  - assets/images/image_21.png
+  - assets/vectors/container_3_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_46_x2.svg
+  - assets/vectors/ellipse_83_x2.svg
+  - assets/images/image_20.png
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_31_x2.svg
+  - assets/vectors/rectangle_41_x2.svg
+  - assets/vectors/rectangle_5_x2.svg
+  - assets/vectors/rectangle_11_x2.svg
+  - assets/vectors/rectangle_6_x2.svg
+  - assets/vectors/rectangle_21_x2.svg
+  - assets/images/image_20.png
+  - assets/images/image_14.png
+  - assets/vectors/rectangle_1_x2.svg
+  - assets/vectors/rectangle_43_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/rectangle_51_x2.svg
+  - assets/vectors/rectangle_2_x2.svg
+  - assets/vectors/rectangle_61_x2.svg
+  - assets/vectors/rectangle_3_x2.svg
+  - assets/images/image_14.png
+  - assets/vectors/container_9_x2.svg
+  - assets/images/image_14.png
+  - assets/images/image_216.png
+  - assets/vectors/container_x2.svg
+  - assets/images/image_14.png
+  - assets/images/image_214.png
+  - assets/vectors/container_8_x2.svg
+  - assets/images/image_211.png
+  - assets/images/image_14.png
+  - assets/images/image_25.png
+  - assets/vectors/container_2_x2.svg
+
